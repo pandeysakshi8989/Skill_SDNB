@@ -5,7 +5,7 @@ Tasks for Python for Data Science and AIML
 1.Out-of-Core CSV Parser & Aggregator with Constant Memory Bounds
 
 
-##Task AI ML
+## Task AI ML
 1.Vectorized Multi-Dimensional A* Pathfinding on OpenStreetMap Graphs
 
 ## SKIL VERSE - Python for Data Analytics with AI assistance ( 12 August 2026 - 7 September)
